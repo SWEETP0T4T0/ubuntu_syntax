@@ -60,3 +60,4 @@ done
 echo "file count is $file_count"
 echo "dir count is $dir_count"
 echo "other count is $other_count"
+.
